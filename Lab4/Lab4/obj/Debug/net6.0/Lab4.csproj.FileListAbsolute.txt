@@ -1,0 +1,15 @@
+C:\Users\khale\source\repos\Lab4\Lab4\bin\Debug\net6.0\Lab4.exe
+C:\Users\khale\source\repos\Lab4\Lab4\bin\Debug\net6.0\Lab4.deps.json
+C:\Users\khale\source\repos\Lab4\Lab4\bin\Debug\net6.0\Lab4.runtimeconfig.json
+C:\Users\khale\source\repos\Lab4\Lab4\bin\Debug\net6.0\Lab4.dll
+C:\Users\khale\source\repos\Lab4\Lab4\bin\Debug\net6.0\ref\Lab4.dll
+C:\Users\khale\source\repos\Lab4\Lab4\bin\Debug\net6.0\Lab4.pdb
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.AssemblyInfo.cs
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.dll
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\ref\Lab4.dll
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.pdb
+C:\Users\khale\source\repos\Lab4\Lab4\obj\Debug\net6.0\Lab4.genruntimeconfig.cache
