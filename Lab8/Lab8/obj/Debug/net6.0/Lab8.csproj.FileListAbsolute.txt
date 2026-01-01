@@ -1,0 +1,15 @@
+C:\Users\khale\source\repos\Lab8\Lab8\bin\Debug\net6.0\Lab8.exe
+C:\Users\khale\source\repos\Lab8\Lab8\bin\Debug\net6.0\Lab8.deps.json
+C:\Users\khale\source\repos\Lab8\Lab8\bin\Debug\net6.0\Lab8.runtimeconfig.json
+C:\Users\khale\source\repos\Lab8\Lab8\bin\Debug\net6.0\Lab8.dll
+C:\Users\khale\source\repos\Lab8\Lab8\bin\Debug\net6.0\ref\Lab8.dll
+C:\Users\khale\source\repos\Lab8\Lab8\bin\Debug\net6.0\Lab8.pdb
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.csproj.AssemblyReference.cache
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfo.cs
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.dll
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\ref\Lab8.dll
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.pdb
+C:\Users\khale\source\repos\Lab8\Lab8\obj\Debug\net6.0\Lab8.genruntimeconfig.cache
